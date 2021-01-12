@@ -10,6 +10,10 @@
 
   <meta property="og:url" content="{{ .Permalink }}" />
 
+  {{ if eq "/" .RelPermalink }}
+  <meta http-equiv="refresh" content="0; URL=/blog/" />  
+  {{ end }}
+
   {{ if .Params.metaDescription }}
   <meta name="description" content="{{ .Params.metaDescription }}">
   <meta property="og:description" content="{{ .Params.metaDescription }}">
