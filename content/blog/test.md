@@ -1,7 +1,7 @@
 ---
 title: TEMPLATE
 metaDescription: this is the template i use to write new blog posts
-thumbnail: https://lh3.googleusercontent.com/dyO-FDXmkMZyRAcdtT6_KeyVkuEsh0UVM_EEFmhEu0MLN88e9X84-jWszdz6W1Q0Ztde_SthaII_Epe9Ig-doyuWn3EuJ4kW7c_2fUREpsqiCEB5AY4I8dc3rP5HpastKQNkCsa8=w2400
+thumbnail: https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif
 description: when posting new content, this is the format i use
 date: 2021-01-01
 ---
