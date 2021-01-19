@@ -1,7 +1,7 @@
 ---
 title: Brave Metaverse
 metaDescription: It starts with a poem. A reflection of myself as I venture into the unknown. Focused on the future of communication. Finding who I am as I discover this new world we call Metaverse.
-thumbnail: https://photos.google.com/album/AF1QipPeL1VbtxpITStZ7Yj27xwnxrCiz0bPVQfWNv25/photo/AF1QipP9Z3OUL3HgtvxriHeC6vePVnnKm50yRD52Z-Fg
+thumbnail: https://lh3.googleusercontent.com/Wt0vMj2rGkRy0b9UVUqoQOO_RSJFgTS13Mb4YspwJM0F_dJ0hKebUcswYhU5yPSXfjjqcD5AGyuzqj7ZCXP5k3XxLNlIDPKn30dE0byKEftX1u8ru2CsY_UNujFa9IxPCazmB_68=w2400
 description: 
 date: 2021-01-18
 ---
