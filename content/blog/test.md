@@ -1,9 +1,9 @@
 ---
-title: This is about me
-metaDescription: CuriousVR is the most curious vr website this side of reality.
+title: TEMPLATE
+metaDescription: this is the template i use to write new blog posts
 thumbnail: /images/eee.png
-description: On the other hand, we denounce with righteous indignation and dislike men
-date: 2020-01-01
+description: when posting new content, this is the format i use
+date: 2021-01-01
 ---
 
 <iframe src="https://www.youtube.com/embed//dOgyJjrgato" class="youtube-iframe"></iframe>
