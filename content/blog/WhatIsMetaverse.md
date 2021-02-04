@@ -15,7 +15,7 @@ Grandma got one of the very first implants, which is probably the only reason sh
 <br>
 <br>
 
-## What is the Metaverse?
+## **What is the Metaverse?**
 
 Buzzword schmuzzword. You won’t be hearing this word on the news anytime soon, but you might have already heard it around the house. Metaverse. It means “beyond universe”, and is going to be all the rage in three years or so.
 For many of you, this is the first time you’ve seen that word. For others, it’s a video game you heard about somewhere. Or the future of entertainment. Perhaps even a successor to the World Wide Web?\
