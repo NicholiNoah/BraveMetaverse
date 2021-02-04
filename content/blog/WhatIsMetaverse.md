@@ -34,7 +34,9 @@ If you bought VR headsets for that big holiday your family celebrates every year
 
 In other words: the Holodeck... but not quite yet.
 
-Right now the Metaverse is a think tank of young entrepreneurs and creative coders. Kids don’t just play games in the Metaverse, they design and build their own. Working together, they learn to code with blocks you can hold and connect like LEGO, not just numbers typed on a screen. An inspiring environment for visual learning and creative thinking. It's also a big world with lots of stuff to learn and even more to think about. Which is why this blog post is ready to wrap up. Give you some time to think, process, imagine. Next post we'll dive deeper into what the Metaverse has to offer, and how you can integrate this new tech into your home.
+Right now the Metaverse is a think tank of young entrepreneurs and creative coders. Kids don’t just play games in the Metaverse, they design and build their own. Working together, they learn to code with blocks you can hold and connect like LEGO, not just numbers typed on a screen. An inspiring environment for visual learning and creative thinking. It's also a big world with lots of stuff to learn and even more to think about.
+
+Plenty of time since we're just getting started. Give it some thought. Process. Imagine. Ask youself, "What do I want the Metaverse to be? How does it fit in with my family?"
 <br>
 <br>
 <br>
