@@ -6,6 +6,10 @@ description: What is the Metaverse?
 date: 2021-02-03
 ---
 
+<section class="blog topmost-section">
+  <div class="blog-banner"
+      style="background-image:url('{{ .Params.bannerImage }}');height:{{ .Params.bannerHeight }};max-height:{{ .Params.maxBannerHeight }};"></div>
+
 Satellite a9.126 dawns comfortably under the blanket of a warm horizon.\
 It’ll be dark soon. That’s when she remembers.
 
