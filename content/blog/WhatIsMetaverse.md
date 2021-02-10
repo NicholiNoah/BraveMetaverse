@@ -25,21 +25,21 @@ Grandmother was young when she got her implant. They forgot her years ago, but w
 
 ## **What is the Metaverse?**
 
-You won’t be hearing this word on the news anytime soon, but you might have already heard it around the house.
-### Metaverse
-It means “beyond universe”, and is going to be all the rage in three years or so.
-For many of you, this is the first time you’ve seen that word. For others, it’s a video game you heard about somewhere. The future of film. Perhaps even a successor to the World Wide Web?\
-You are correct. It’s all of those things. It’s also what your kids are playing around in every time they put on that VR headset.
+It means “beyond universe”, and is going to be the big buzzword in three years or so.
+For many of you, this is the first time you’ve seen that word, Metaverse. For others, the Metaverse is a video game you heard about somewhere. Probably the future of social media. Perhaps even a successor to the World Wide Web?\
+Yes! You are correct. It’s all of those things. It’s also what your kids are playing around in every time they put on the VR headset..
 
 Okay... so what exactly is the Metaverse?\
-The Metaverse is where virtual reality lives. It’s an abstract new world reaching beyond our physical universe. More specifically it’s the shared space where virtual and reality converge, and home to all the extended realities. From video games and robots to education and industry, the Metaverse is already developing into its own diverse community, culture, and economy. You can go to school in there now too.
+The Metaverse is where virtual reality lives. It’s an abstract new world reaching beyond our physical universe. More specifically it’s the shared space where virtual and reality converge, and home to all the extended realities. 
+
+Video games and robots to virtual schools and working from home, the Metaverse is already developing into its own diverse community, culture, and economy. You can even get a job in the Metaverse now.
 
 If you bought VR headsets for that big holiday your family celebrates every year, your kids have probably visited at least one Metaverse. And that’s okay because you and I interact with the Metaverse every day too. Our cellphones, smartwatch, Alexa, those big expensive tractors you see farming giant cornfields out in the country. They’re all connected to each other, humming along in harmony, communicating through a network of data and algorithms designed to make our lives better.
 
 In other words: the Holodeck... but not quite yet.
 
-Right now the Metaverse is a think tank of young entrepreneurs and creative coders. Kids don’t just play games in the Metaverse, they design and build their own. Working together, they learn to code with blocks you can hold and connect like LEGO, not just numbers typed on a screen. An inspiring environment for visual learning and creative thinking. It's also a big world with lots of stuff to learn and even more to think about.
-With each post, we’ll dive deeper into what the Metaverse has to offer, and how you can comfortably integrate this new tech into your home. Imagine.
+Right now the Metaverse is a think tank of young entrepreneurs and creative coders. Kids don’t just play games in the Metaverse, they make their own. Working together. Programming with code blocks that connect like LEGO, not just numbers typed on a screen. It's an inspiring environment for visual learning and creative thinking. It's also a big world with lots of stuff to learn and feels a little bit about the Wild West.
+With each post, we’ll dive deeper into what the Metaverse has to offer, and how you can comfortably integrate this new tech into your home.
 
 What would you like the Metaverse to be?
 <br>
