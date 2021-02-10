@@ -26,7 +26,7 @@ Grandmother was young when she got her implant. They forgot her years ago, but w
 ## **What is the Metaverse?**
 
 It means “beyond universe”, and is going to be the big buzzword in three years or so.
-For many of you, this is the first time you’ve seen that word, Metaverse. For others, the Metaverse is a video game you heard about somewhere. Probably the future of social media. Perhaps even a successor to the World Wide Web?\
+For many of you, this is the first time you’ve seen that word, Metaverse. For others, the Metaverse is a video game you heard about. Probably the future of social media. Perhaps even a successor to the World Wide Web?\
 Yes! You are correct. It’s all of those things. It’s also what your kids are playing around in every time they put on the VR headset..
 
 Okay... so what exactly is the Metaverse?\
