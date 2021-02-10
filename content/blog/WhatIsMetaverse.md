@@ -10,18 +10,22 @@ date: 2021-02-03
   <div class="blog-banner"
       style="background-image:url('{{ .Params.bannerImage }}');height:{{ .Params.bannerHeight }};max-height:{{ .Params.maxBannerHeight }};"></div>
 
-Satellite a9.126 dawns comfortably under the blanket of a warm horizon.\
+
+
+<div style="padding-left: 150px; padding-right: 150px;"><i>
+
+Satellite a9.126 dawns comfortably under the blanket of a warm horizon.
 It’ll be dark soon. That’s when she remembers.
 
-Grandma was young when she got her implant. They said it went out years ago, but we know better. See, right around this time every year, when the sun sets between those trees and the skies clear away from the cloud… that blinky yellow light right there lines up perfectly with the horizon. The signal must bounce off the atmosphere or something but for like twenty minutes, Grandma’s reception comes in loud and clear. Streaming recordings of old memories. Sitting right here telling stories about what it was like back then, before the Beginning.
+Grandmother was young when she got her implant. They forgot her years ago, but we know better. See, right around this time every year, when the sun sets between those trees and the skies clear away from the cloud… that blinky yellow light right there lines up perfectly with the horizon. Her reception comes in loud and clear. A signal must bounce off the atmosphere or something but for like twenty minutes, she remembers way back. Telling stories from when she was a kid. All memories still floating around out here in the Metaverse.</i>
+</div>
 
-“Metaverse? I remember my first time in the Metaverse…”
 <br>
 <br>
 
 ## **What is the Metaverse?**
 
-Buzzword schmuzzword. You won’t be hearing this word on the news anytime soon, but you might have already heard it around the house.
+You won’t be hearing this word on the news anytime soon, but you might have already heard it around the house.
 ### Metaverse
 It means “beyond universe”, and is going to be all the rage in three years or so.
 For many of you, this is the first time you’ve seen that word. For others, it’s a video game you heard about somewhere. The future of film. Perhaps even a successor to the World Wide Web?\
