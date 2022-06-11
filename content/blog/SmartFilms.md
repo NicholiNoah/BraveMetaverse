@@ -16,7 +16,7 @@ date: 2021-03-14
 We open in the passenger seat of a high-intensity car chase. Your heart is racing.
 
 <p style="padding-left: 50px; padding-right: 50px;">
-I/E SPEEDING VEHICLE - DAY
+I/E SPEEDING VEHICLE - DAY  
 GOOD GUY is in hot pursuit, mere inches from BAD GUY’s bumper, aggressively threading the streets of Velo City.
 Sqealing tires drift tight corners knocking down trash cans, scattering crowded streets and innocent shoppers.
 At the straight away, Good Guy almost takes the edge when Bad Guy cuts a hard right into the busy intersection. Barely missing a school bus full of innocent children, Bad Guy slips away into the dark alleys just outside of Good Guy’s jurisdiction. Good Guy screeches to a stop.
@@ -27,7 +27,7 @@ GOOD GUY<br>
 (frustrated)
 </p>
 
-        (frustrated)
+
     Dammit!
 
 Good Guy jumps out of the car and slams his fist on the roof, scowling in defeat. There’s nothing he can do now.
