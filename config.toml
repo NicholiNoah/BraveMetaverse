@@ -11,7 +11,7 @@ summaryLength = 30
 [menu]
   [[menu.nav]]
     identifier = "about-me"
-    name = "About Me"
+    name = "Nicholi Noah"
     url = "https://nicholinoah.com"
     weight = 1
   [[menu.nav]]
