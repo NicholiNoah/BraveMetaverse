@@ -10,19 +10,19 @@ summaryLength = 30
 
 [menu]
   [[menu.nav]]
-    identifier = "about-me"
+    identifier = "nicholi-noah"
     name = "Nicholi Noah"
     url = "https://nicholinoah.com"
     weight = 1
   [[menu.nav]]
-    identifier = "traditional-media"
-    name = "Traditional Media"
-    url = "https://nicholinoah.com/traditional-media/"
+    identifier = "extended-reality"
+    name = "XR & Fine Art"
+    url = "https://nicholinoah.com/extended-reality/"
     weight = 2
   [[menu.nav]]
-    identifier = "extended-reality"
-    name = "Extended Reality"
-    url = "https://nicholinoah.com/extended-reality/"
+    identifier = "professional-media"
+    name = "Professional Media"
+    url = "https://nicholinoah.com/professional-media/"
     weight = 3
   [[menu.nav]]
     identifier = "Brave Metaverse"
