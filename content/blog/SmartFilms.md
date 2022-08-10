@@ -18,7 +18,7 @@ We open in the passenger seat of a high-intensity car chase. Your heart is racin
 <p style="padding-left: 50px; padding-right: 50px;">
 I/E SPEEDING VEHICLE - DAY  
 GOOD GUY is in hot pursuit, mere inches from BAD GUY’s bumper, aggressively threading the streets of Velo City.
-Sqealing tires drift tight corners knocking down trash cans, scattering crowded streets and innocent shoppers.
+Squealing tires drift tight corners knocking down trash cans, scattering crowded streets and innocent shoppers.
 At the straight away, Good Guy almost takes the edge when Bad Guy cuts a hard right into the busy intersection. Barely missing a school bus full of innocent children, Bad Guy slips away into the dark alleys just outside of Good Guy’s jurisdiction. Good Guy screeches to a stop.
 </p>
 
@@ -50,10 +50,10 @@ The team quiets. Good Guy devises a new plan, presenting an extremely detailed r
 
 
 Meticulous planning turns into information overload. Three minutes of dialogue feels like a whole hour. The story is dragging.
-You begin to yawn. Your heart rate has dropped from an excited 92bpm to a restful 68. There’s just too much talking. Unconsciously, you reach for your cell phone to scroll the latest social media news. The film has lost your attention.
+You begin to yawn. Your heart rate has dropped from an excited 82bpm to a restful 68. There’s just too much talking. Unconsciously, you reach for your cell phone to scroll the latest social media news. The film has lost your attention.
 </div>
 
-Virtual reality opens the world to a form of communication most people can’t yet comprehend. For generations, we’ve been writing and dreaming about a future when technology brings humans together in ways our natural bodies and minds could never achieve or even process. No doubt many of us realize VR looks a lot like science fiction and the world of tomorrow, but few can see this future already exists. We’ve been carrying it in our pockets for years, using only a small percentage of its potential as an app on an otherwise very powerful computer extension of our brain. Today young people are putting that very same technology on their face to view and interact with each other in metaworlds only visible through electronics. We are in the early stages of the future. It has been sneaking up on us for a while, and is growing at a exciting rate.
+Virtual reality opens the world to a form of communication most people can’t yet comprehend. For generations, we’ve been writing and dreaming about a future when technology brings humans together in ways our natural bodies and minds could never achieve or even process. No doubt many of us realize VR looks a lot like science fiction and the world of tomorrow, but few can see this future already exists. We’ve been carrying it in our pockets for years, using only a small percentage of its potential as an app on an otherwise very powerful computer extension of our identities. Today young people are strapping that very same technology on their face to view and interact with each other in metaworlds only visible through electronics. We are in the early stages of the future. It has been sneaking up on us for a while, and is growing at a exciting rate.
 
 But what does that look like?
 
@@ -64,7 +64,7 @@ Many forward thinkers speak of increased empathy and a deeper understanding of h
 “I think we’re moving into a dangerous medium with virtual reality,” Steven Spielberg said in 2016, “because it gives the viewer a lot of latitude not to take direction from the storytellers but make their own choices of where to look.”
 
 Very true. And who better to recognize this early than Spielberg, right?
-However, contemporary tech disagrees. We argue that the latitude he refers to IS the new medium. Storytellers must have the courage to allow their viewers to discover the story on their own, building a unique outcome as they go. This isn’t a new idea by any means as many describe a “choose your own story” approach where viewers direct what happens next based on key decisions throughout their film experience. Take Netflix’s critically acclaimed [Black Mirror: Bandersnatch](https://www.netflix.com/title/80988062) for example. Certainly entertaining, and even re-viewable with different choices, but still based on an idea that has been shared as bedtime stories and basement board games for generations.
+However, contemporary tech disagrees. I argue that the latitude he refers to IS the new medium. Storytellers must have the courage to allow their viewers to discover the story on their own, building a unique outcome as they go. This isn’t a new idea by any means as many describe a “choose your own story” approach where viewers direct what happens next based on key decisions throughout their film experience. Take Netflix’s critically acclaimed [Black Mirror: Bandersnatch](https://www.netflix.com/title/80988062) for example. Certainly entertaining, and even re-viewable with different choices, but still based on an idea that has been shared as bedtime stories and basement board games for generations.
 
 I’m here to take this proposed future a couple steps further. Not limited to a genre that has been here before, but one that isn’t here yet. One that requires active, daily participation in VR culture to see coming. I call them Smart Films.
 
