@@ -18,12 +18,12 @@ summaryLength = 30
     identifier = "extended-reality"
     name = "Artistic Expression"
     url = "https://nicholinoah.com/extended-reality/"
-    weight = 2
+    weight = 3
   [[menu.nav]]
     identifier = "professional-media"
     name = "Professional Video"
     url = "https://nicholinoah.com/professional-media/"
-    weight = 3
+    weight = 2
   [[menu.nav]]
     identifier = "Brave Metaverse"
     name = "Brave Metaverse"
